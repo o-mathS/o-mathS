@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 
-- 🌱 I’m currently studying C++
+- 🌱 I’m currently studying C++ in SENAI
 - 📫 How to reach me: henrique.matheusilva@gmail.com
 - 😄 Pronouns: Tri/color
 - ⚡ Fun fact: 
