@@ -1,8 +1,8 @@
 ### Hi there 👋
 - 🌱 I’m currently studying :
-Systems development 1/4 at SENAI and Google Cloud Engineer skills
-- 📃 Certificated: Google Cloud Foundations
-- 📫 How to reach me: henrique.matheusilva@gmail.com
+Systems development 2/4 at SENAI
+- 📃 Certificated: Google Cloud Foundations, Google Cloud Engineer Associate.
+- 📫 How to reach me: silva.ohenrique08@gmail.com
 - 😄 Pronouns: He/Him
 -->
 
